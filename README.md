@@ -35,7 +35,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 
 Welcome to this hypothetical little universe which follows a hypothetical sequence of hypothetical seasons.
 
-I am really interested in the naturally occuring types of time - and how we tend to forget about this mesasurment of time in the overbearing presence of the man-made clock. I like the idea that the natural world around us keeps track of time in a very different way, following and changing with the path of the sun in a perpertual and fairly predictable loop. 
+I am really interested in the naturally occuring types of time - and how we tend to forget about this mesasurment of time in the overbearing presence of the man-made clock. In comparison to the ticking hands of the mechanical timepiece, the natural world around us keeps track of time in a very different way, following and changing with the path of the sun in a perpertual and fairly predictable loop.
 
 I wanted to create a hypothetical natural loop that follows similar seasonal cycles to Earth, but on a smaller scale. There are 26 images in the changing cycle, which each represent about 14 days passing. the loop cycles through 365 days worth of seasonal changes in 26 seconds.
 
