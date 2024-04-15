@@ -35,9 +35,13 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 
 Welcome to this hypothetical little universe which follows a hypothetical sequence of hypothetical seasons.
 
-I am really interested in the naturally occuring types of time - and how we tend to forget about this mesasurment of time in the overbearing presence of the man-made clock. I like the idea that the natural world around us time keeps in a very different way, following and changing with the path of the sun in a perpertual and fairly predictable loop. I wanted to create a hypothetical natural loop that follows similar seasonal cycles to Earth, but on a smaller scale. There are 26 images in the changing cycle which each represent about 14 days passing. the loop cycles through 365 days worth of seasonal changes in 26 seconds.
+I am really interested in the naturally occuring types of time - and how we tend to forget about this mesasurment of time in the overbearing presence of the man-made clock. I like the idea that the natural world around us keeps track of time in a very different way, following and changing with the path of the sun in a perpertual and fairly predictable loop. 
 
-To create the first image I began by asking generative AI to process one single "summer" landscape. I wanted it to be as broad a promt as possible so that there would be some room for the AI to essentially make choices about what it wanted to present. Then I went into photoshop with the image and continiued to apply new generative fill overtop of each new image and add prompts to areas such as "winter snowstorm sky" "dry barren desert" "spring flowers" "wetlands" etc. It took some time to blend each new image into the next so it didn't look to jarring. I wanted the flow of time to have some logic to it which is why it roughly follows Earth's seasonal changes.
+I wanted to create a hypothetical natural loop that follows similar seasonal cycles to Earth, but on a smaller scale. There are 26 images in the changing cycle, which each represent about 14 days passing. the loop cycles through 365 days worth of seasonal changes in 26 seconds.
+
+To create the first image I began by asking generative AI to process one single "summer" landscape. I wanted it to be as broad a promt as possible so that there would be some room for the AI to essentially make choices about what it wanted to present. Then I went into photoshop with the image and continiued to apply new generative AI fill overtop each new image and add prompts to areas such as "winter snowstorm sky" "dry barren desert" "spring flowers" "wetlands" etc. The outcome was a 26 step transformation of a single AI generated image of what it percieves as natural life. 
+
+It took some time to blend each new image into the next and there was a lot of trial and error with what the generative fill would create. I wanted the flow of time to have some logic to it which is why it roughly follows Earth's seasonal changes.
 
 ### 🟨 Stage 2
 - Name/Alias:
